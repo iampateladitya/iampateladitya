@@ -1,4 +1,4 @@
-![logo](https://github.com/iampateladitya/iampateladitya/blob/main/codeaspire.png)
+![logo](https://github.com/iampateladitya/iampateladitya/blob/main/codeaspiree.png)
 <h1 align="center">Hi 👋, I'm Aditya Patel</h1>
 <h3 align="center">A Passionate Coder who just loves building stuff through programming</h3>
 
